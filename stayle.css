@@ -1,0 +1,63 @@
+.radius{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 100px;
+    top: 400px;
+    left: 600px;
+    position: absolute;
+    z-index: 2;
+}
+.shar{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    border-radius: 100px;
+    top: 380px;
+    left: 580px;
+    position: absolute;
+    
+}
+.doira{
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    border-radius: 100px;
+    top: 360px;
+    left: 600px;
+    position: absolute;
+    z-index: 3;
+}
+.b111{
+    width: 200px;
+    height: 200px;
+    background-color: gray;
+    top: 480px;
+    left: 580px;    
+    border-radius: 20px;
+    position: absolute;
+    border: 10px solid gray;
+}
+.b222{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    top: 500px;
+    left: 600px;    
+    border-radius: 20px;
+    position: absolute;
+    border: 10px solid gray;
+}
+.text{
+    height: 25px;
+    width: auto;
+    margin-bottom: 10PX;
+    margin-left: 10px;
+}
+.k11{
+    margin-left: 10px;
+    border-radius: 3px;
+}
+h3{
+    margin-left: 10px;
+}
